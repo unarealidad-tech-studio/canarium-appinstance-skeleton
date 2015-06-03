@@ -1,0 +1,9 @@
+<?php
+
+return array(
+    'canariumcore' => array(
+        'site_name'                  => 'Skeleton',
+        'verbose_title'              => false,
+        'is_authentication_required' => false,
+    )
+);

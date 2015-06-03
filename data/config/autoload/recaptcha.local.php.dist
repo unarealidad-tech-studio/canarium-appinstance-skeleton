@@ -1,0 +1,8 @@
+<?php
+return array(
+    'recaptcha' => array(
+        'pubKey' => '6Le8uQMTAAAAAJvoBTgUTtMi4Qhy4VKGAJEqeQ4l',
+        'privKey' => '6Le8uQMTAAAAAHQYn5BWffSrIcpPIpmRA2qmT4Vy',
+        'options' => array('theme' => 'white'),
+    )
+);

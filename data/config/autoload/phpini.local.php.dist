@@ -1,0 +1,17 @@
+<?php
+
+$phpSettings = array(
+    'display_startup_errors'        => true,
+    'display_errors'                => true,
+    'max_execution_time'            => 60,
+    'date.timezone'                 => 'Asia/Manila',
+    'mbstring.internal_encoding'    => 'UTF-8',
+);
+
+if(!empty($phpSettings)) {
+    foreach($phpSettings as $key => $value) {
+        ini_set($key, $value);
+    }
+}
+
+return array();
