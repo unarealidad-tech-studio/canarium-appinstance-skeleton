@@ -1,5 +1,5 @@
 {
-    "name": "canarium/canarium-appinstance/canarium-appinstance-skeleton",
+    "name": "unarealidad/canarium-appinstance-skeleton",
     "type": "project",
     "description": "A clonable project that serves as the starting project for appinstances",
     "keywords": ["canarium", "module"],
