@@ -1,3 +1,3 @@
 # canarium-appinstance-skeleton
 
-Starting template to create new appinstances under Canarium.
+A clonable project that serves as the starting project for appinstances
