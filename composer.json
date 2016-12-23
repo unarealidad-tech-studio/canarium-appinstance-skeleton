@@ -1,16 +1,17 @@
 {
-    "name": "canarium/canarium-appinstance/canarium-appinstance-skeleton",
+    "name": "unarealidad/canarium-appinstance-skeleton",
     "type": "project",
     "description": "A clonable project that serves as the starting project for appinstances",
     "keywords": ["canarium", "module"],
-    "homepage": "http://packages.canarium.ph",
-    "license": "proprietary",
+    "homepage": "http://www.canarium.ph",
+    "license": "MIT",
 
     "authors": [
         {
             "name": "Errol A. Zuñiga Jr.",
             "email": "errol.zuniga@unarealidad.com",
-            "role": "developer"
+            "role": "developer",
+            "homepage": "https://github.com/Fatal-Errol"
         }
     ],
     "support": {
