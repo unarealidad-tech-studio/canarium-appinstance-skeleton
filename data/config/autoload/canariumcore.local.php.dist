@@ -5,5 +5,11 @@ return array(
         'site_name'                  => 'Skeleton',
         'verbose_title'              => false,
         'is_authentication_required' => false,
+        'login_on_denied_access' => true,
+        'denied_access_redirect_route' => 'home',
+        'logout_third_party_login_too' => false,
+        'application_hash'            => '#1HKS)>>#EAZJR',
+        'default_app_id' => 1,
+        'default_app_secret' => '50b9d04e28e1380bf522a7430b7a9b5c08a8cc16'
     )
 );

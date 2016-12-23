@@ -1,12 +1,8 @@
 <?php
+
 return array(
     'googlesso' => array(
-        'client_id' => '1011692860887-s6fmc232gl43ecjl3ql3hoeve42sh7p8.apps.googleusercontent.com',
-        'client_secret' => 'ESZmog1bSvd2cRVeUZtzoSX3',
-        'scope' => array(
-            'https://www.googleapis.com/auth/plus.login',
-            'https://www.googleapis.com/auth/userinfo.email',
-            'https://www.googleapis.com/auth/userinfo.profile'),
-        'redirect_uri' => 'http://incitec.staging.overlaysoftware.com.au/oauth2callback',
+        'client_id' => '484785189087-6gjh8mc44tmct68gs7vsje7tf5qebgc3.apps.googleusercontent.com',
+        'client_secret' => '-ExW6DGwai_I9Nv-1ueYAKPi'
     )
 );
